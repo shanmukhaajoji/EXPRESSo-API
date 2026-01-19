@@ -38,7 +38,7 @@ ExpressoAPI/
 ## Future Improvements
 - Add unit tests for controllers and services
 - Implement authentication and authorization
-- Integrate AI-powered features (e.g., menu recommendations or demand prediction)
+- Integrate AI-powered features (menu recommendations or demand prediction)
 - Improve API documentation using Swagger / OpenAPI
 
 ## Credits
